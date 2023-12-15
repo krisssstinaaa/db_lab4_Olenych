@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 params = {
     'user': 'postgres',
-    'password': '7256',
+    'password': '1111',
     'database': 'labs',
     'host': 'localhost',
     'port': '5432'
